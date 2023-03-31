@@ -1,6 +1,6 @@
 Name:		texlive-bxjaprnind
 Version:	59641
-Release:	1
+Release:	2
 Summary:	Adjust the position of parentheses at paragraph head
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxjaprnind
