@@ -3,7 +3,7 @@ Version:	59641
 Release:	2
 Summary:	Adjust the position of parentheses at paragraph head
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxjaprnind
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxjaprnind
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxjaprnind.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxjaprnind.doc.r%{version}.tar.xz
